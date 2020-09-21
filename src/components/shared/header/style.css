@@ -1,0 +1,33 @@
+.header-wrapper {
+    background: #f9f9f9;
+    height: 70px;
+    display: flex;
+}
+
+.website-logo {
+    height: 100%;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    padding: 0 5px;
+}
+
+.website-name {
+    padding-left: 10px;
+}
+
+.logo-img {
+    height: 50px;
+}
+
+.navbar-ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-li {
+    display: inline-block;
+    padding: 0 20px;
+    font-size: 19px;
+}

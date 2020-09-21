@@ -1,0 +1,59 @@
+#title {
+    font-size: 26px;
+    color: #323232;
+    margin: 15px 0;
+    padding-top: 15px;
+}
+
+.donation-process {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.description {
+    font-size: 18px;
+    color: #787981;
+    max-width: 450px;
+}
+
+.donation-steps {
+    display: flex;
+    padding: 40px 0;
+}
+
+.step {
+    padding: 10px 25px;
+}
+
+.step-id {
+    padding: 8px;
+    font-size: 30px;
+    width: 40px;
+    text-align: center;
+    border-radius: 40%;
+    margin-bottom: 15px;
+}
+
+.step-name {
+    padding: 0 0 10px 0;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.step-1 {
+    background: #C7C5F6;
+}
+.step-2 {
+    background: #FDE8B2;
+}
+.step-3 {
+    background: #D1FAF6;
+}
+.step-4 {
+    background: #FADCC4;
+}
+
+.step-description {
+    font-size: 14px;
+    color: #787981;
+}

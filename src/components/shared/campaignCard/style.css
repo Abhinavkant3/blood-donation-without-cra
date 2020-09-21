@@ -1,0 +1,9 @@
+.campaign-image {
+    width: 350px;
+    border-radius: 10px 10px 0 0;
+}
+
+.campaign-card {
+    width: 350px;
+    border-radius: 10px;
+}

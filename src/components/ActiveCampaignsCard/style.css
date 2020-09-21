@@ -1,0 +1,41 @@
+.active-campaign-wrapper {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+.title-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 40px;
+}
+
+#title {
+    font-size: 26px;
+    color: #323232;
+    margin: 15px 0;
+    padding-top: 15px;
+}
+
+.description {
+    font-size: 18px;
+    color: #787981;
+    max-width: 450px;
+}
+
+.see-all {
+    padding-top: 30px;
+}
+
+.see-all-icon {
+    padding: 10px;
+    cursor: pointer;
+    color: #787981;
+    font-size: 16px;
+}
+
+.campaigns-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
